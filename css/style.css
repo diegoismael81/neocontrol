@@ -571,7 +571,7 @@ section {
 	float: left;
 	position: absolute;
 	top: 50%;
-	left: 15px;
+	left: -150px;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
 }
